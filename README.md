@@ -6,3 +6,5 @@
 **commit readme keempat
 
 #kolaborasi squash changes
+**commit readme 1
+**commit readme 2
